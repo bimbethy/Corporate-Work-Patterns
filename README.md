@@ -19,6 +19,8 @@ This project explores corporate work patterns using a dataset sourced from Kaggl
 ## 🧩 Project Files
 - `A Data-Driven Analysis of Corporate Work Patterns By Abimbola Ogunleye.xlsx`  
 - `A Data-Driven Analysis of Corporate Work Patterns By Abimbola Ogunleye.pbix`
+- `Corporate Work Patterns.xlsx` – Cleaned dataset and exploratory analysis in Excel
+- `Corporate Work Patterns.pbix` – Interactive dashboard visuals built with Power BI
 
 ---
 
@@ -47,7 +49,12 @@ This project explores corporate work patterns using a dataset sourced from Kaggl
 - Connect to real-time corporate data
 - Integrate with HR decision systems for proactive planning
 
----
+## 📥 How to View
+
+To explore the Power BI report:
+1. Download the `.pbix` file
+2. Open it with Power BI Desktop (Free from Microsoft)
+
 
 ## 📬 Contact
 Feel free to connect via [LinkedIn](#) or send a message for collaboration or feedback.
