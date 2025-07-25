@@ -43,6 +43,7 @@ This project explores corporate work patterns using a dataset sourced from Kaggl
 ![Power BI Visual](https://github.com/user-attachments/assets/a50b2494-586e-490e-9bf7-e4316ea0d989)
 
 ![Dashboard Screenshot](./dashboard.jpg)
+> A snapshot of the Power BI dashboard visualizing work patterns across industries and demographics.
 
 ---
 
