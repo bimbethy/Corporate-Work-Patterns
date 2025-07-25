@@ -42,6 +42,7 @@ This project explores corporate work patterns using a dataset sourced from Kaggl
 <img width="863" height="444" alt="visual 1" src="https://github.com/user-attachments/assets/83e7519b-4359-486f-a3fd-e7df5d06f1e8" />
 ![Power BI Visual](https://github.com/user-attachments/assets/a50b2494-586e-490e-9bf7-e4316ea0d989)
 
+![Dashboard Screenshot](./dashboard.jpg)
 
 ---
 
